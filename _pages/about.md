@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am a senior at Del Norte Highschool and am filled with enthusiasm and passion. I can wait to wow profe youngy with my exceptional work. **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]:A brown student that is ready to work. 
